@@ -17,12 +17,14 @@ Hi, I'm Manuel Riani. A semiconductor engineer
 <!-- COLLAPSE SECTION -->
 <details>
   <summary>My top Languages</summary>  
+  
   | Rank | Languages |
   |-----:|-----------|
   |     1| Matlab |
   |     2| Python    |
   |     3| Italian       |
   |     4| English       |
+
 </details>
 
 ---
